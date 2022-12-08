@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Roman
 - 👀 I’m interested in Java
 - 🌱 I’m currently learning Spring Framework
-- 📫 How to reach me 
-- <img src="{((https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white))}" https://www.linkedin.com/in/roman-hanmamedov-a6751917b/>
+- 📫 How to reach me <a href="https://www.linkedin.com/in/roman-hanmamedov-a6751917b/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
