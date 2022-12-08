@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Roman
+- 👋 Hi, I’m Roman. I want to become a Java Developer
 - 👀 I’m interested in Java
 - 🌱 I’m currently learning Spring Framework
 - 📫 How to reach me 
