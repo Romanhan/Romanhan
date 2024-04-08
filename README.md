@@ -7,7 +7,7 @@ Java Developer
 I began my programming journey with Java and later honed my skills with Java 17. Currently, I'm immersed in learning the Spring framework as I strive to become a proficient developer. My passion for coding drives me to continually expand my knowledge and expertise.
 
 *   🌍  I'm based in Estonia
-*   🧠  I'm learning Spring Famework
+*   🧠  Currently I'm learning Spring Famework
 
 ### Skills 
 <p align="left">
