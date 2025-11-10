@@ -4,13 +4,13 @@ Hi! My name is Roman
 Java Developer
 --------------
 
-I began my programming journey with Java and later honed my skills with Java 17. Currently, I'm immersed in learning the Spring framework as I strive to become a proficient developer. My passion for coding drives me to continually expand my knowledge and expertise.
+I began my programming journey with Java and later honed my skills with Java 25. Currently, I'm immersed in learning the Spring framework as I strive to become a proficient developer. My passion for coding drives me to continually expand my knowledge and expertise.
 
 *   🌍  I'm based in Estonia
 
 ### Skills 
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,git,postgresql,linux,bash,html,css,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,git,postgresql,linux,bash,html,css,javascript)](https://skillicons.dev)
                     
 ### Socials
                    
