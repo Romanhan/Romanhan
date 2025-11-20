@@ -10,7 +10,7 @@ I began my programming journey with Java and later honed my skills with Java 25.
 
 ### Skills 
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,git,postgresql,linux,bash,html,css,javascript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,git,postgresql,linux,bash,html,css,javascript,docker)](https://skillicons.dev)
                     
 ### Socials
                    
